@@ -5,7 +5,7 @@
 
 # Módulo 6: Introducción a Express.js y sus Middlewares - Quiz server
 
-Versión: 14 de enero de 2022
+Versión: 14 de enero de 2024
 
 ## Objetivos
 
