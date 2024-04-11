@@ -23,7 +23,7 @@
         "method-override": "^3.0.0",
         "sequelize": "^6.6.5",
         "sequelize-cli": "^6.2.0",
-        "sqlite3": "^4.2.0",
+        "sqlite3": "^5.1.7",
         "autocorector": "^3.1.3"
     }
 }
