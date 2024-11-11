@@ -10,8 +10,8 @@
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod6_quiz-server_entrega",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "1601",
-        "assignmentId": "985"
+        "courseId": "138",
+        "assignmentId": "47"
     },
     "engines": {
         "node": ">=16.8.0",
@@ -24,6 +24,6 @@
         "sequelize": "^6.6.5",
         "sequelize-cli": "^6.2.0",
         "sqlite3": "^5.1.7",
-        "autocorector": "^3.1.3"
+        "autocorector": "^3.5.0"
     }
 }
