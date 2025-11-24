@@ -10,8 +10,8 @@
     "info": {
         "githubURL": "ging-moocs/MOOC_node_mod6_quiz-server_entrega",
         "serverUrl": "https://moocbot.dit.upm.es/",
-        "courseId": "138",
-        "assignmentId": "47"
+        "courseId": "349",
+        "assignmentId": "158"
     },
     "engines": {
         "node": ">=16.8.0",
